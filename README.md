@@ -1,10 +1,5 @@
-Python module dependencies (to install: pip3 install <modulename>):
-	numpy
-	scipy
-	plotly
-	lmfit
-	ipywidgets
-	jupyter
+Python module dependencies (see requirements.txt):
+	To install: pip3 install <modulename>
 
 
 Jupyter notebook installation and setup:

@@ -1,7 +1,7 @@
 # Neutron Activation Analysis
 
-## Python module dependencies (see requirements.txt):
-To install required modules, in a terminal,
+## Python module dependencies:
+To install required modules (see requirements.txt), in a terminal,
 ```bash
 pip3 install <modulename>
 ```
